@@ -26,6 +26,8 @@ To run Py402, simply execute:
 
 `python Py402.py`
 
+![Demo Video](demo.mp4)
+
 ### LNbits
 
 If you have an LNbits wallet configured, your balance will be shown, and you will be prompted to pay the invoice. Type "YES" to proceed.
